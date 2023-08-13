@@ -1,0 +1,2 @@
+Control Panel >> User Account >> Credential Manager >> Windows Credential >> Generic Credential 
+>> look for any github cert/credential and delete it.
